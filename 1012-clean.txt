@@ -29,7 +29,7 @@
       "filterable": 1
     },
     {
-      "key": "MissAV.ws",
+      "key": "MissAV",
       "name": "MissAV",
       "type": 3,
       "api": "csp_Miss",
