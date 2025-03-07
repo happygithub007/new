@@ -29,12 +29,13 @@
       "filterable": 1
     },
     {
-      "key": "MissAv",
+"key": "missav",
       "name": "MissAV",
-      "type": 3,
-      "api": "csp_Miss",
-      "searchable": 1,
-      "filterable": 1
+      "type": 1,
+      "api": "http://192.168.5.217:5000/api/videos",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "Jable",
