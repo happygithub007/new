@@ -83,7 +83,7 @@
     },
     {
       "key": "91md.me",
-      "name": "成人19",
+      "name": "麻豆视频",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "quickSearch": 1,
@@ -92,7 +92,7 @@
     },
     {
       "key": "api.11bat.com",
-      "name": "成人30",
+      "name": "辣椒资源",
       "type": 0,
       "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
       "quickSearch": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "api.maozyapi.com",
-      "name": "成人32",
+      "name": "色猫资源",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "quickSearch": 1,
@@ -119,7 +119,7 @@
     },
     {
       "key": "shayuapi.com",
-      "name": "成人40",
+      "name": "鲨鱼资源",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
       "quickSearch": 1,
