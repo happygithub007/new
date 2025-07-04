@@ -85,7 +85,7 @@
       "key": "91md.me",
       "name": "麻豆视频",
       "type": 1,
-      "api": "http://91md.cc/api.php/provide/vod/",
+      "api": "http://9191md.me/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
